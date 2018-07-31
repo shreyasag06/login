@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>My Page.</title>
+</head>
+<body>
+<h1 algin="center"> Registration Form</h1>
+</table align="center"  border="1">
+<tr>
+<th>Name</th>
+<td>
+<input type="text"placeholder="Name"/>
+</td>
+</tr>
+<tr>
+<th>Email</th>
+<td>
+<input type="email" placeholder="Email"/>
+</td>
+</tr>
+<tr>
+<th>Contact</th>
+<td>
+<input type="text" placeholder="Contact"/>
+</td>
+</tr>
+<tr>
+placeholder="password"/></td>
+</tr>
+<tr>
+<td></td>
+<td>
+<input type="submit" value="save"/>
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
